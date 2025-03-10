@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hi, Bangalore"
+echo "Hi, Mandya"
 if [ $? -eq 0 ]
 then
    echo "ture"
